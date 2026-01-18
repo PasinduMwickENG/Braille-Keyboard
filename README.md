@@ -1,16 +1,17 @@
 # Braille Keyboard – Custom HID Device for Typing & Media Control
 
  <p float="left">
-  <img src="https://github.com/user-attachments/assets/f4ad8141-b500-4927-8408-823abf3f65ab" width="1800" style="margin-right:10px"/>
+  <img src="https://github.com/user-attachments/assets/2fb4d2a7-52c6-466e-a6e5-7643cf6a1dc2" width="1800" style="margin-right:10px"/>
   
 </p>
   
 
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/d3561cc0-ecaa-4ed0-8abb-b611abedb8b7" width="300" style="margin-right:10px"/>
-  <img src="https://github.com/user-attachments/assets/77ead6b1-a9ec-4223-b739-f59205289b85" width="300"/>
+  <img src="https://github.com/user-attachments/assets/b31995be-0356-46af-a5cb-950d45e6b0c8" width="300" style="margin-right:10px"/>
+  <img src="https://github.com/user-attachments/assets/fb2e57c3-e174-4cca-93e6-f217b1025be4" width="300"/>
 </p>
+
 
 
 
@@ -78,11 +79,13 @@ A **custom Braille keyboard** built on ESP32 with USB HID support. This project 
 - Optimized for compact Braille keyboard layout
 
  <p float="left">
-  <img src="https://github.com/user-attachments/assets/f518f0b2-cc83-444e-b222-0736b5f7bf4a" width="300" style="margin-right:10px"/>
-  <img src="https://github.com/user-attachments/assets/f61a2bca-86e7-422d-b1a4-d4f965efeaf3" width="300"/>
-</p>   
+  <img src="https://github.com/user-attachments/assets/cf254a68-d0d6-460c-af31-a80cd016acc5" width="500" style="margin-right:10px"/>
+  <img src="https://github.com/user-attachments/assets/15fa9277-f736-48cb-93b4-275cadc31fb1" width="500"/>
+</p> 
 
- 
+
+
+
 
 ### Enclosure
 
@@ -90,7 +93,7 @@ A **custom Braille keyboard** built on ESP32 with USB HID support. This project 
 - Ergonomic key placement for Braille typing  
 - Openings for USB and buttons  
 
-<img width="1916" height="952" alt="Screenshot 2026-01-18 144346" src="https://github.com/user-attachments/assets/aecd5b38-9b83-471e-bf8a-8fa7bc4826cf" />
+<img width="1200"  alt="Screenshot 2026-01-18 144346" src="https://github.com/user-attachments/assets/9ba52503-d87b-4baa-8a89-06ab53886f2f " />
 
 
 ---
