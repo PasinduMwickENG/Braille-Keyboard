@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"BACKSPACE1, C1, C2, C3, C4, C5, C6, CUSTOM1, DELETE1, ENTER1, L1, L2, L3, L4, L5, L6, MODES1, N1, N2, N3, N4, N5, N6, PROG1, SPACE1",MX_PCB_1.00u,25,Keyswitch,
+"J1, J2",PinSocket_1x22_P2.54mm_Vertical,2,Conn_01x22_Socket,
+J3,PinSocket_1x03_P2.54mm_Vertical,1,Conn_01x03_Socket,
+J4,PinSocket_1x05_P2.54mm_Vertical,1,Conn_01x05_Socket,
